@@ -1,0 +1,25 @@
+
+.title {
+  font-family: Arial;
+  font-weight: bold;
+  color: white;
+  font-size: 18px;
+}
+
+.content {
+  font-family: Arial;
+  color: rgb(150, 150, 150);
+  font-size: 12px;
+  line-height: 13px;
+}
+
+.card {
+  background-color: black;
+  width: 270px;
+  padding-left: 16px;
+  vertical-align: middle;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  padding-right: 16px;
+}
+
